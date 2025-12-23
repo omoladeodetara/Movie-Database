@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Movie Database
+
+A React-based movie database application that provides information about movies, TV shows, and people in the entertainment industry.
+
+## Screenshots
+
+Screenshots of the application UI are available in the [`screenshots/`](./screenshots/) directory. See the full gallery showcasing:
+- Homepage with popular content sections
+- Movies and TV Shows browsing pages
+- People directory
+- Navigation and filtering features
 
 ## Available Scripts
 
